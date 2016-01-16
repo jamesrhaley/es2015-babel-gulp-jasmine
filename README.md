@@ -24,6 +24,11 @@ You should have global installation of `jasmine` package. At this time tests are
 npm test
 ```
 
+## Extra
+
+If you want an executable to do the heavy lifting of updating this boiler plate you can find it here https://github.com/jamesrhaley/boilJS.  It is writen in python.
+
+
 ## Support 
 
 Current support version:
